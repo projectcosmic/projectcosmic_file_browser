@@ -1,0 +1,14 @@
+{
+  "name": "projectcosmic/projectcosmic_file_browser",
+  "description": "File Browser UI improvements.",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Justin Wong",
+      "email": "justin@cosmic.org.uk",
+      "homepage": "https://cosmic.org.uk",
+      "role": "Developer"
+    }
+  ],
+  "license": "MIT"
+}
