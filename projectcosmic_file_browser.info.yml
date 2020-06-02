@@ -2,6 +2,7 @@ name: Project Cosmic File Browser
 description: File Browser UI improvements
 type: module
 core: 8.x
+core_version_requirement: ^8 || ^9
 project: projectcosmic
 dependencies:
   - entity_browser:entity_browser
